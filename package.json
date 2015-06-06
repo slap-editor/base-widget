@@ -1,0 +1,25 @@
+{
+  "name": "base-widget",
+  "version": "1.0.0",
+  "description": "Editor widget used by slap-editor/slap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbkaplun/base-widget.git"
+  },
+  "author": "Dan Kaplun <dbkaplun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbkaplun/base-widget/issues"
+  },
+  "homepage": "https://github.com/dbkaplun/base-widget#readme",
+  "dependencies": {
+    "blessed": "^0.1.60",
+    "bluebird": "^2.9.27",
+    "lazy.js": "^0.4.0",
+    "text-buffer": "^6.3.0"
+  }
+}

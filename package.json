@@ -22,6 +22,6 @@
     "lazy.js": "^0.4.0",
     "rc": "^1.0.3",
     "slap-util": "dbkaplun/slap-util",
-    "text-buffer": "^6.3.0"
+    "text-buffer": "~6.1.3"
   }
 }

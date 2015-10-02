@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/slap-editor/base-widget#readme",
   "dependencies": {
-    "blessed": "^0.1.15",
-    "bluebird": "^2.9.27",
-    "lodash": "^3.9.3",
-    "rc": "^1.0.3",
-    "slap-util": "^1.0.5",
-    "text-buffer": "^7.1.0",
-    "through2": "^2.0.0"
+    "blessed": "0.1.81",
+    "bluebird": "2.10.2",
+    "lodash": "3.10.1",
+    "rc": "1.1.1",
+    "slap-util": "1.0.5",
+    "text-buffer": "7.1.2",
+    "through2": "2.0.0"
   }
 }

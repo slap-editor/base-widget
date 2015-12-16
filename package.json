@@ -18,7 +18,7 @@
   "homepage": "https://github.com/slap-editor/base-widget#readme",
   "dependencies": {
     "blessed": "0.1.81",
-    "bluebird": "3.0.6",
+    "bluebird": "3.1.1",
     "lodash": "3.10.1",
     "rc": "1.1.5",
     "slap-util": "1.0.5",

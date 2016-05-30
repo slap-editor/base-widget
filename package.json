@@ -22,7 +22,7 @@
     "lodash": "4.6.1",
     "rc": "1.1.6",
     "slap-util": "1.0.6",
-    "text-buffer": "8.0.6",
+    "text-buffer": "9.2.0",
     "through2": "2.0.1"
   }
 }
